@@ -6,7 +6,7 @@ import playstore from './assets/playstore.png';
 import ios from './assets/ios.png';
 import instagram from './assets/Instagram.png';
 import facebook from './assets/Facebook.png';
-import Linkedin from './assets/Linkedin.png';
+import Linkedin from './assets/LinkedIn.png';
 
 const FundrWebsite = () => {
   const navigate = useNavigate();
